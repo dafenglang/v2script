@@ -1,6 +1,6 @@
 {
     "inbounds": [{
-      "port": 52001,
+      "port": 520,
       "protocol": "vmess",
       "settings": {
         "clients": [
